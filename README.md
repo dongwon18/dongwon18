@@ -5,7 +5,8 @@
 ### Welcome to my portfolio page
 ### Feel free to contact me!
 ✉ dongwonkim0218@gmail.com  
-🌐 https://dongwon18.github.io
+🌐 https://dongwon18.github.io  
+please visit my [portfolio site](https://hello-dongwon-kim.netlify.app/) too!
 
 ## 🦏 About
 - Location  
