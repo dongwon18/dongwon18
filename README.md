@@ -1,8 +1,6 @@
 ## Hi 🖐
-## I am Dongwon Kim,
-## interested in Embedded System
+## I am Dongwon Kim, interested in Embedded System
 
-### Welcome to my portfolio page
 ### Feel free to contact me!
 ✉ dongwonkim0218@gmail.com  
 🌐 https://dongwon18.github.io  
