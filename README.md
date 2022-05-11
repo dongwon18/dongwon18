@@ -1,4 +1,4 @@
-## Hi 🖐🦏
+## Hi 🖐
 ## I am Dongwon Kim,
 ## interested in Embedded System
 
@@ -7,7 +7,7 @@
 ✉ dongwonkim0218@gmail.com  
 🌐: https://dongwon18.github.io
 
-## About
+## 🦏 About
 - Location  
    Republic of Korea(South Korea)
 - Major  
@@ -20,30 +20,26 @@
 - Interested in  
   Especially about Smart Factory, Cloud IoT Systems etc
   
-## My tech stacks
+## 🛠 My tech stacks
 ### Language
 <div>
- <img src="https://img.shields.io/badge/C-100%25-yellow?style=for-the-badge&logo=c">
- <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c++">
+ <img src="https://img.shields.io/badge/C-100%25-yellow?style=for-the-badge&logo=C">
+ <img src="https://img.shields.io/badge/C++-100%25-yellowgreen?style=for-the-badge&logo=c%2b%2b">
  <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python">
  <img src="hhttps://img.shields.io/badge/javascript-90%25-yellowgreen?style=for-the-badge&logo=javascript">
  <img src="https://img.shields.io/badge/Verilog-80%25-violet?style=for-the-badge&logo=Verilog">
  <img src="https://img.shields.io/badge/VHDL-80%25-blueviolet?style=for-the-badge&logo=VHDL">
  <img src="https://img.shields.io/badge/Assenbly-70%25-9cf?style=for-the-badge&logo=Assembly">
- <img src="https://img.shields.io/badge/SQL-70%25-ff8e7f?style=for-the-badge&logo=SQL">
- <img src="https://img.shields.io/badge/IoT-80%25-f5f5dc?style=for-the-badge&logo=IoT">
- <img src="https://img.shields.io/badge/Embedded_System-90%25-800000?style=for-the-badge">
- <img src="https://img.shields.io/badge/Deep_Learning-80%25-ffcb6b?style=for-the-badge&logo=AI">
- <img src="https://img.shields.io/badge/Frontend-90%25-ff8e7f?style=for-the-badge">
- <img src="https://img.shields.io/badge/Backend-60%25-ff8e7f?style=for-the-badge">  
+ <img src="https://img.shields.io/badge/SQL-70%25-ff8e7f?style=for-the-badge&logo=MySQL">
 </div>
+
 ### Experience
 <div>
  <img src="https://img.shields.io/badge/IoT-80%25-f5f5dc?style=for-the-badge&logo=IoT">
  <img src="https://img.shields.io/badge/Embedded_System-90%25-800000?style=for-the-badge">
  <img src="https://img.shields.io/badge/Deep_Learning-80%25-ffcb6b?style=for-the-badge&logo=AI">
- <img src="https://img.shields.io/badge/Frontend-90%25-ff8e7f?style=for-the-badge">
- <img src="https://img.shields.io/badge/Backend-60%25-ff8e7f?style=for-the-badge">  
+ <img src="https://img.shields.io/badge/Frontend-90%25-ffff00?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Backend-60%25-99ff66?style=for-the-badge">  
 </div> 
 
 ### Skills  
@@ -73,7 +69,7 @@
  <img src="https://img.shields.io/badge/-Vim%20-darkgreen">  
 </div>
 
-## Career
+## 🎖 Career
 - 삼성 청년 SW 아카데미(SSAFY)   
  (진행중)  
  January 03, 2022~  
