@@ -4,20 +4,20 @@
 ### Feel free to contact me!
 ✉ dongwonkim0218@gmail.com  
 🌐 https://dongwon18.github.io  
-please visit my [portfolio site](https://hello-dongwon-kim.netlify.app/) too!
+👉 please visit my [portfolio site](https://hello-dongwon-kim.netlify.app/) too!
 
 ## 🦏 About
-- Location  
-   Republic of Korea(South Korea)
-- Major  
-  Electronic Electrical Engineering  
-  Software Engineering
-- Skilled at  
-  Embedded System, IoT, AI, Front end
-- Hobbies  
-  Experiencing New Things, Outdoor Activities
-- Interested in  
-  Especially about Smart Factory, Cloud IoT Systems etc
+🏞 Location  
+　Republic of Korea(South Korea)  
+📚 Major  
+　Electronic Electrical Engineering  
+　Software Engineering  
+💼 Skilled at  
+　Embedded System, IoT, AI, Front end  
+🍀 Hobbies  
+　Experiencing New Things, Outdoor Activities  
+👀 Interested in  
+　Especially about Smart Factory, Cloud IoT Systems etc
   
 ## 🛠 My tech stacks
 ### Language
@@ -79,6 +79,6 @@ please visit my [portfolio site](https://hello-dongwon-kim.netlify.app/) too!
  스마트팩토리UNIC연계 현잘실습, LSTM 이용 사출온도 예측 모델 구축  
  December 21, 2020 ~ February 19, 2021  
 - SUNGKYUNKWAN University  
- 👩‍🎓 Valedictorian  
+ 👩‍🎓 Valedictorian (College of Information and Communication Engineering)  
  March 01, 2018 ~ February 16, 2022  
     
