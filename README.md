@@ -59,6 +59,8 @@
  <img src="https://img.shields.io/badge/-HTML%20-darkgreen">
  <img src="https://img.shields.io/badge/-CSS%20-darkgreen">
  <img src="https://img.shields.io/badge/-Bootstrap%20-darkgreen">
+ <img src="https://img.shields.io/badge/-Node.js%20-darkgreen">
+ <img src="https://img.shields.io/badge/-Vue.js%20-darkgreen">
  <img src="https://img.shields.io/badge/-Firebase%20-darkgreen">
  <img src="https://img.shields.io/badge/-3D_Printing%20-darkgreen">
  <img src="https://img.shields.io/badge/-PyQt%20-darkgreen">
