@@ -37,7 +37,7 @@
  <img src="https://img.shields.io/badge/IoT-80%25-f5f5dc?style=for-the-badge&logo=IoT">
  <img src="https://img.shields.io/badge/Embedded_System-90%25-800000?style=for-the-badge">
  <img src="https://img.shields.io/badge/Deep_Learning-80%25-ffcb6b?style=for-the-badge&logo=AI">
- <img src="https://img.shields.io/badge/Frontend-90%25-ffff00?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Frontend-80%25-ffff00?style=for-the-badge">
  <img src="https://img.shields.io/badge/Backend-60%25-99ff66?style=for-the-badge">  
 </div> 
 
@@ -56,12 +56,15 @@
  <img src="https://img.shields.io/badge/-Keras%20-darkgreen">
  <img src="https://img.shields.io/badge/-Numpy%20-darkgreen">
  <img src="https://img.shields.io/badge/-OpenCV%20-darkgreen">
+ <img src="https://img.shields.io/badge/-Docker%20-darkgreen"> 
+ <img src="https://img.shields.io/badge/-Google_Cloud_Platform%20-darkgreen"> 
  <img src="https://img.shields.io/badge/-HTML%20-darkgreen">
  <img src="https://img.shields.io/badge/-CSS%20-darkgreen">
  <img src="https://img.shields.io/badge/-Bootstrap%20-darkgreen">
  <img src="https://img.shields.io/badge/-Node.js%20-darkgreen">
  <img src="https://img.shields.io/badge/-Vue.js%20-darkgreen">
  <img src="https://img.shields.io/badge/-Firebase%20-darkgreen">
+ <img src="https://img.shields.io/badge/-picovoice%20-darkgreen"> 
  <img src="https://img.shields.io/badge/-3D_Printing%20-darkgreen">
  <img src="https://img.shields.io/badge/-PyQt%20-darkgreen">
  <img src="https://img.shields.io/badge/-PySlide%20-darkgreen">
@@ -83,4 +86,6 @@
 - SUNGKYUNKWAN University  
  👩‍🎓 Valedictorian (College of Information and Communication Engineering)  
  March 01, 2018 ~ February 16, 2022  
-    
+ 
+ ## 🕜 Now
+![dongwon18 git now](https://github-readme-stats.vercel.app/api?username=dongwon18&show_icons=true&theme=highcontrast)
