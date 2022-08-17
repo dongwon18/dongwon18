@@ -17,7 +17,7 @@
 🍀 Hobbies  
 　Experiencing New Things, Outdoor Activities  
 👀 Interested in  
-　Especially about Smart Factory, Cloud IoT Systems etc
+　Especially about Smart Factory, Cloud IoT Systems,Big Data etc
   
 ## 🛠 My tech stacks
 ### Language
