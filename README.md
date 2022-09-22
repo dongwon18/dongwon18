@@ -38,7 +38,6 @@
  <img src="https://img.shields.io/badge/Embedded_System-90%25-800000?style=for-the-badge">
  <img src="https://img.shields.io/badge/Deep_Learning-80%25-ffcb6b?style=for-the-badge&logo=AI">
  <img src="https://img.shields.io/badge/Frontend-80%25-ffff00?style=for-the-badge">
- <img src="https://img.shields.io/badge/Backend-60%25-99ff66?style=for-the-badge">  
 </div> 
 
 ### Skills  
