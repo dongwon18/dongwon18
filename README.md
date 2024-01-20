@@ -73,9 +73,9 @@
 </div>
 
 ## 🎖 Career
-- SK Hynix
-  FW engineer
-  January 02, 2023 ~
+- SK Hynix    
+ FW engineer  
+ January 02, 2023 ~ 
 - 삼성 청년 SW 아카데미(SSAFY)   
  (진행중)  
  January 03, 2022 ~ October 21, 2022
